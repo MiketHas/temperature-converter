@@ -21,5 +21,5 @@ Go to the .jar file directory
 Run
 
 ```bash
-  TemperatureConverter_jar
+  TemperatureConverter.jar
 ```
