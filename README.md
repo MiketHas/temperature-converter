@@ -12,13 +12,7 @@ I set it from -40°C (that's exactly -40°F) to 100°C (because 100 is such a ni
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
+Go to the .jar file directory
 
 ```bash
   \out\artifacts\TemperatureConverter_jar
